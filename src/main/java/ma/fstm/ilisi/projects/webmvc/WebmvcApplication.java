@@ -14,7 +14,7 @@ public class WebmvcApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Hello!!!!!");
-		
+		System.out.println("To access the application in guithb: https://github.com/omarelbeggar/WebMVCRepo");
 	}
 
 }
